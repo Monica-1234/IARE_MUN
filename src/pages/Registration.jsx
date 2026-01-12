@@ -8,8 +8,8 @@ function Registration() {
   const openGoogleForm = (formType) => {
     // Replace these URLs with your actual Google Form URLs
     const formUrls = {
-      internal: 'https://docs.google.com/forms/d/17HpUIGIZvJy7RZ3Wx6CNEqowcFniB3xwfi1crQOChOM/edit', // Replace with actual internal form URL
-      external: 'https://docs.google.com/forms/d/1XNi9HP0_4Z-GMVSVu7g4gezkQxHmXE7psnSsfWJnDK4/edit'  // Replace with actual external form URL
+      internal: 'https://forms.gle/EEGEXhE3sNuVUyrM6', // Replace with actual internal form URL
+      external: 'https://forms.gle/tvRh5G9MZZGaWdF38'  // Replace with actual external form URL
     };
     
     window.open(formUrls[formType], '_blank');
