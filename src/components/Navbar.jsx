@@ -20,7 +20,7 @@ function Navbar() {
         <div className="nav-wrapper">
           <div className="nav-left">
             <Link to="/" className="nav-logo" onClick={closeMenu}>
-              <img src="/src/assets/logo.png" alt="IARE MUN Logo" className="logo-img" />
+              <img src="/logo.png" alt="IARE MUN Logo" className="logo-img" />
               <span className="logo-text">IARE MUN</span>
             </Link>
           </div>
