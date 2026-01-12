@@ -46,7 +46,7 @@
   transition: color 0.3s ease;
   display: flex;
   align-items: center;
-  gap: 3.5rem;
+  gap: 1.5rem;
   font-size: 2rem;
   font-weight: 900;
   white-space: nowrap;
@@ -54,7 +54,7 @@
 
 
 .logo-img {
-  height: 100px;
+  height: 80px;
   width: auto;
 }
 
