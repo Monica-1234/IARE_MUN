@@ -13,7 +13,7 @@
   align-items: center;
   width: 100%;
   min-height: 60px;
-  gap: 20rem;
+  gap: 15rem;
 }
 
 .nav-left {
@@ -21,7 +21,7 @@
   align-items: center;
   flex-shrink: 0;
   min-width: fit-content;
-  margin-left: -22rem;
+  margin-left: -10rem;
 }
 
 .nav-right {
@@ -29,7 +29,7 @@
   align-items: center;
   margin-left: auto;
   flex-shrink: 0;
-  margin-right: -15rem;
+  margin-right: -10rem;
 }
 
 .container {
@@ -73,7 +73,7 @@
 .nav-menu {
   display: flex;
   list-style: none;
-  gap: 2.5rem;
+  gap: 2.15rem;
   margin: 0;
   padding: 0;
   white-space: nowrap;
